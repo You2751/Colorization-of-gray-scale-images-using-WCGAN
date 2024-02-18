@@ -1,6 +1,5 @@
 # Image Colorization using Conditional Wasserstein GAN
 
-![Colorized Image](https://example.com/colorized_image.jpg)
 
 ## Overview
 
