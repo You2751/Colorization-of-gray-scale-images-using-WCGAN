@@ -14,9 +14,7 @@ Before diving into the code, make sure you have the following dependencies insta
 - NumPy
 - Matplotlib
 - OpenCV
-- Pillow
 - Scikit-Image
-- tqdm
 
 
 ## Data Preparation
